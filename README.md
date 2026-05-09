@@ -1,29 +1,3 @@
 ![Banner](WhatsApp%20Image%202026-05-09%20at%205.51.05%20PM.jpeg)
-# Hi I'm Mohamed Wahib
+#  Mohamed Wahib
 
-AI & Data Science Student  
-Passionate about Artificial Intelligence and Machine Learning  
-Interested in Data Analysis and Smart Systems  
-Python Developer  
-Building AI Projects using Flask, Streamlit, and Machine Learning
-
-## Skills
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,sklearn,pandas,numpy,git,github,vscode" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,html,css,javascript" />
-</p>
-
-# Projects
-- LabAnalyzer AI
-
-# Currently Learning
-- Deep Learning
-- Data Visualization
-- Advanced AI Models
-
-# Connect With Me
-GitHub: mohamed2006wahib-bit
