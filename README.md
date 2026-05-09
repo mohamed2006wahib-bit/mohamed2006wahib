@@ -12,6 +12,10 @@ Building AI Projects using Flask, Streamlit, and Machine Learning
   <img src="https://skillicons.dev/icons?i=python,flask,sklearn,pandas,numpy,git,github,vscode" />
 </p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,html,css,javascript,git,github,vscode" />
+</p>
+
 # Projects
 - LabAnalyzer AI
 
