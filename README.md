@@ -6,15 +6,11 @@ Interested in Data Analysis and Smart Systems
 Python Developer  
 Building AI Projects using Flask, Streamlit, and Machine Learning
 
-# Skills
-- Python
-- Machine Learning
-- Data Science
-- Pandas & NumPy
-- Scikit-learn
-- Flask
-- Streamlit
-- Git & GitHub
+## Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,sklearn,pandas,numpy,git,github,vscode" />
+</p>
 
 # Projects
 - LabAnalyzer AI
