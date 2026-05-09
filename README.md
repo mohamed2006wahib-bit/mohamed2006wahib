@@ -13,7 +13,7 @@ Building AI Projects using Flask, Streamlit, and Machine Learning
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,html,css,javascript,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,flask,html,css,javascript,git,github" />
 </p>
 
 # Projects
